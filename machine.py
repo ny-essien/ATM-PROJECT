@@ -1,4 +1,5 @@
 #handle insufficient funds for transfer and withdraw
+#use 8052 as your default pin
 
 from re import I
 import time
